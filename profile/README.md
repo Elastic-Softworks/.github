@@ -1,4 +1,4 @@
-# Elastic Softworks
+# ELASTIC SOFTWORKS
 
 ## About
 
