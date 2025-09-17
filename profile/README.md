@@ -10,8 +10,8 @@ While our foundation is rooted in the greater Arkansas, Tennessee, Louisiana, Mi
 
 Elastic Software focuses on:
 
-- Developing software, tools, and codebases for public benefit
-- Archiving and preserving digital works and knowledge
+- Developing software, tools, and codebases for public benefit.
+- Archiving and preserving digital works and knowledge.
 - The syndication and proliferation of public works.
 
 ## JOIN
