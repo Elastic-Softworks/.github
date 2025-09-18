@@ -1,7 +1,5 @@
 # ELASTIC SOFTWORKS
 
-## ABOUT
-
 Elastic Softworks is a software federation bringing together developers, archivists, writers, and artists who are passionate about creating and maintaining public works.
 
 While our foundation is rooted in the greater Arkansas, Tennessee, Louisiana, Mississippi, and Alabama region, Elastic Softworks operate as an international federation.
