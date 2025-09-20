@@ -1,6 +1,6 @@
 # ELASTIC SOFTWORKS
 
-Elastic Softworks is an organized federation of developers, writers, archivists, and artists dedicated to the creation and maintaining of public works.
+Elastic Softworks is a federation of developers, writers, archivists, and artists dedicated to the creation and maintaining of public works.
 
 While our foundation is rooted in the greater Arkansas, Tennessee, Louisiana, Mississippi, and Alabama region, Elastic Softworks operates as an international federation.
 
