@@ -6,9 +6,9 @@ While our foundation is rooted in the greater Arkansas, Tennessee, Louisiana, Mi
 
 ## MISSION
 
-Elastic Software focuses on:
+Our goals are the following:
 
-- Developing software, tools, and codebases for public benefit.
+- The on-going development of free software, tools, and codebases for public benefit.
 - Archiving and preserving digital works and knowledge.
 - The syndication and proliferation of public works.
 
