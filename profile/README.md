@@ -1,6 +1,6 @@
 # ELASTIC SOFTWORKS
 
-Elastic Softworks is an open-source software project dedicated to the development and maintaining of free tools and programs.
+Elastic Softworks is an open-source software development project dedicated to the building and maintaining of free programs and libraries.
 
 ## JOIN
 
