@@ -4,4 +4,4 @@ Elastic Softworks is an open-source software development project dedicated to th
 
 ## JOIN
 
-Contact us at admin@helloworldtwo.com
+Contact admin@helloworldtwo.com
